@@ -23,7 +23,7 @@ A web application built with Django that generates QR codes from text or URLs.
 - Django Views
 - Templates
 - Forms
-- Static Files
+- Dynamic Files
 
 ## Future Improvements
 
@@ -31,3 +31,8 @@ A web application built with Django that generates QR codes from text or URLs.
 - User Authentication
 - Colored QR Codes
 - Custom Logo QR Codes
+
+
+## Interface 
+
+
