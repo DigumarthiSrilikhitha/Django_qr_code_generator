@@ -1,0 +1,33 @@
+# Django QR Code Generator
+
+A web application built with Django that generates QR codes from text or URLs.
+
+## Features
+
+- Generate QR codes instantly
+- Supports text and website URLs
+- Download generated QR codes
+- Clean and responsive interface
+
+## Tech Stack
+
+- Python
+- Django
+- HTML
+- CSS
+- qrcode Library
+- Pillow
+
+## Project Structure
+
+- Django Views
+- Templates
+- Forms
+- Static Files
+
+## Future Improvements
+
+- QR Code History
+- User Authentication
+- Colored QR Codes
+- Custom Logo QR Codes
